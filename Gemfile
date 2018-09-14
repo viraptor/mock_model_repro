@@ -58,6 +58,7 @@ group :test do
   gem 'chromedriver-helper'
   gem 'rspec'
   gem 'rspec-rails'
+  gem 'rspec-activemodel-mocks'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
